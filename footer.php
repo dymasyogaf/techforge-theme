@@ -1,3 +1,89 @@
-<!--$--><!--/$--><footer class="bg-linear-to-b from-black to-[#4B4B4B] py-20 from-40%"><div class="container mx-auto px-5 md:px-0"><div class="flex flex-col lg:flex-row justify-between gap-16 lg:gap-8"><div class="w-full lg:w-1/3"><a href="<?php echo esc_url(home_url('/')); ?>"><div class="relative w-48 md:w-64 h-16 md:h-20 mb-5"><img alt="Coding Collective Logo" class="object-contain object-left" loading="lazy" src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/logo.png'); ?>" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"/></div></a><div class="mb-5"><div class="flex gap-2 mb-2"><div class="my-auto"><svg fill="none" height="20" viewbox="0 0 25 30" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M12.0826 29.3972C11.7361 29.3972 11.3971 29.2993 11.1034 29.1035C10.6514 28.8022 0 21.5707 0 12.7271C0 9.5257 1.27304 6.45231 3.54042 4.18494C5.80779 1.91756 8.88118 0.644531 12.0826 0.644531C15.2841 0.644531 18.3575 1.91756 20.6248 4.18494C22.8922 6.45231 24.1653 9.5257 24.1653 12.7271C24.1653 21.5933 13.5063 28.8022 13.0544 29.1035C12.7681 29.2918 12.4291 29.3972 12.0826 29.3972ZM12.0826 4.16234C9.81524 4.16234 7.63827 5.06629 6.02625 6.67078C4.42176 8.27527 3.51782 10.4522 3.51782 12.7271C3.51782 18.3541 9.64952 23.597 12.0826 25.4576C14.5082 23.597 20.6399 18.3541 20.6399 12.7271C20.6399 10.4598 19.736 8.28278 18.1315 6.6783C16.527 5.06627 14.35 4.16234 12.0826 4.16234Z" fill="#FFBE00"></path><path d="M12.0831 16.1696C13.9814 16.1696 15.5256 14.6254 15.5256 12.7271C15.5256 10.8289 13.9814 9.28467 12.0831 9.28467C10.1848 9.28467 8.64062 10.8289 8.64062 12.7271C8.64062 14.6254 10.1848 16.1696 12.0831 16.1696Z" fill="#FFBE00"></path></svg></div><div class="text-white font-bold text-lg my-auto">Indonesia</div></div><div class="text-base text-white max-w-sm">Jl. Soga No.46 Tahunan, Kec.Umbulharjo, Kota Yogyakarta,Daerah Istimewa Yogyakarta 55167</div></div><div><div class="flex gap-2 mb-2"><div class="my-auto"><svg fill="none" height="20" viewbox="0 0 25 30" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M12.0826 29.3972C11.7361 29.3972 11.3971 29.2993 11.1034 29.1035C10.6514 28.8022 0 21.5707 0 12.7271C0 9.5257 1.27304 6.45231 3.54042 4.18494C5.80779 1.91756 8.88118 0.644531 12.0826 0.644531C15.2841 0.644531 18.3575 1.91756 20.6248 4.18494C22.8922 6.45231 24.1653 9.5257 24.1653 12.7271C24.1653 21.5933 13.5063 28.8022 13.0544 29.1035C12.7681 29.2918 12.4291 29.3972 12.0826 29.3972ZM12.0826 4.16234C9.81524 4.16234 7.63827 5.06629 6.02625 6.67078C4.42176 8.27527 3.51782 10.4522 3.51782 12.7271C3.51782 18.3541 9.64952 23.597 12.0826 25.4576C14.5082 23.597 20.6399 18.3541 20.6399 12.7271C20.6399 10.4598 19.736 8.28278 18.1315 6.6783C16.527 5.06627 14.35 4.16234 12.0826 4.16234Z" fill="#FFBE00"></path><path d="M12.0831 16.1696C13.9814 16.1696 15.5256 14.6254 15.5256 12.7271C15.5256 10.8289 13.9814 9.28467 12.0831 9.28467C10.1848 9.28467 8.64062 10.8289 8.64062 12.7271C8.64062 14.6254 10.1848 16.1696 12.0831 16.1696Z" fill="#FFBE00"></path></svg></div><div class="text-white font-bold text-lg my-auto">Singapore</div></div><div class="text-base text-white max-w-sm">Level 08-09, The Metropolis Tower 2 11 North Buona Vista Drive, Singapore 138589</div></div></div><div class="w-full lg:w-3/5 grid grid-cols-1 sm:grid-cols-3 gap-10 md:gap-16 lg:gap-20"><div><h4 class="text-white font-bold text-lg mb-6">Navigation</h4><ul class="space-y-4"><li><a class="transition-colors duration-300 text-base text-[#FFC700] font-bold" href="<?php echo esc_url(home_url('/')); ?>">Home</a></li><li><a class="transition-colors duration-300 text-base text-gray-400 hover:text-[#FFC700]" href="<?php echo esc_url(home_url('/about/')); ?>">About</a></li><li><a class="transition-colors duration-300 text-base text-gray-400 hover:text-[#FFC700]" href="<?php echo esc_url(home_url('/services/')); ?>">Services</a></li><li><a class="transition-colors duration-300 text-base text-gray-400 hover:text-[#FFC700]" href="<?php echo esc_url(home_url('/industries/')); ?>">Industries</a></li><li><a class="transition-colors duration-300 text-base text-gray-400 hover:text-[#FFC700]" href="<?php echo esc_url(home_url('/community/')); ?>">Community</a></li><li><a class="transition-colors duration-300 text-base text-gray-400 hover:text-[#FFC700]" href="<?php echo esc_url(home_url('/contact/')); ?>">Contact</a></li></ul></div><div><h4 class="text-white font-bold text-lg mb-6">Social</h4><ul class="space-y-4"><li><a class="text-gray-400 hover:text-[#FFC700] transition-colors duration-300 text-base flex items-center gap-2 group" href="https://www.linkedin.com/company/codingcollective/posts/?feedView=all" target="_blank">LinkedIn<svg class="w-4 h-4 text-gray-500 group-hover:text-[#FFC700] transition-colors" fill="none" stroke="currentColor" viewbox="0 0 24 24"><path d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg></a></li><li><a class="text-gray-400 hover:text-[#FFC700] transition-colors duration-300 text-base flex items-center gap-2 group" href="https://www.instagram.com/codingcollective.id/" target="_blank">Instagram<svg class="w-4 h-4 text-gray-500 group-hover:text-[#FFC700] transition-colors" fill="none" stroke="currentColor" viewbox="0 0 24 24"><path d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg></a></li></ul></div><div class="pt-0 sm:pt-13"><ul class="space-y-4"><li><a class="transition-colors duration-300 text-base text-gray-400 hover:text-[#FFC700]" href="<?php echo esc_url(home_url('/terms-and-conditions/')); ?>">Terms &amp; Support</a></li><li><a class="transition-colors duration-300 text-base text-gray-400 hover:text-[#FFC700]" href="<?php echo esc_url(home_url('/privacy-policy/')); ?>">Privacy Policy</a></li></ul></div></div></div></div></footer><a aria-label="Chat on WhatsApp" class="fixed bottom-6 right-6 md:bottom-10 md:right-10 z-50 flex items-center justify-center w-14 h-14 md:w-16 md:h-16 bg-[#25D366] text-white rounded-full shadow-[0_4px_15px_rgba(37,211,102,0.4)] hover:scale-110 hover:bg-[#20ba56] transition-all duration-300 group" href="https://wa.me/6281952690962?text=Halo%20Coding%20Collective%2C%20saya%20tertarik%20untuk%20berkonsultasi%20mengenai%20solusi%20IT." rel="noopener noreferrer" target="_blank"><span class="absolute inline-flex h-full w-full rounded-full bg-[#25D366] opacity-30 group-hover:animate-ping -z-10"></span><svg class="w-8 h-8 md:w-10 md:h-10" fill="currentColor" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M11.996 0a11.96 11.96 0 00-10.02 18.508L0 24l5.65-1.487a11.956 11.956 0 106.346-22.513zM11.996 22A9.973 9.973 0 016.31 20.25l-.42-.24-3.52.92.94-3.44-.27-.4A9.957 9.957 0 0111.996 2c5.523 0 10 4.477 10 10s-4.477 10-10 10zM17.47 14.5c-.3-.15-1.77-.87-2.04-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.34.22-.64.07-.3-.15-1.26-.46-2.4-1.48-.88-.79-1.47-1.77-1.64-2.07-.17-.3-.02-.46.13-.61.15-.15.3-.34.45-.51.15-.17.2-.3.3-.5.1-.2.05-.38-.02-.53-.08-.15-.67-1.62-.92-2.22-.24-.58-.49-.5-.67-.5h-.57c-.2 0-.53.08-.8.38-.27.3-1.04 1.02-1.04 2.49 0 1.47 1.07 2.89 1.22 3.09.15.2 2.11 3.22 5.11 4.52.71.3 1.27.48 1.7.62.71.22 1.36.19 1.87.11.56-.08 1.77-.72 2.02-1.42.25-.7.25-1.3.17-1.42-.08-.12-.28-.2-.58-.35z"></path></svg></a><script src="<?php echo esc_url(get_template_directory_uri() . '/assets/js/main.js?v=4'); ?>" defer></script>
+<footer class="bg-linear-to-b from-black to-[#4B4B4B] py-20 from-40%">
+    <div class="container mx-auto px-5 md:px-0">
+        <div class="flex flex-col lg:flex-row justify-between gap-16 lg:gap-8">
+            <div class="w-full lg:w-1/3">
+                <a href="<?php echo esc_url(home_url('/')); ?>">
+                    <div class="relative w-48 md:w-64 h-16 md:h-20 mb-5">
+                        <img alt="TechForge Logo" class="object-contain object-left" loading="lazy" src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/logo.png?v=3'); ?>" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"/>
+                    </div>
+                </a>
+                <div class="mb-5 space-y-3">
+                    <div class="flex items-center gap-3">
+                        <div class="shrink-0 text-[#0F67CF]">
+                            <svg fill="none" height="20" viewbox="0 0 25 30" width="20" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M12.0826 29.3972C11.7361 29.3972 11.3971 29.2993 11.1034 29.1035C10.6514 28.8022 0 21.5707 0 12.7271C0 9.5257 1.27304 6.45231 3.54042 4.18494C5.80779 1.91756 8.88118 0.644531 12.0826 0.644531C15.2841 0.644531 18.3575 1.91756 20.6248 4.18494C22.8922 6.45231 24.1653 9.5257 24.1653 12.7271C24.1653 21.5933 13.5063 28.8022 13.0544 29.1035C12.7681 29.2918 12.4291 29.3972 12.0826 29.3972ZM12.0826 4.16234C9.81524 4.16234 7.63827 5.06629 6.02625 6.67078C4.42176 8.27527 3.51782 10.4522 3.51782 12.7271C3.51782 18.3541 9.64952 23.597 12.0826 25.4576C14.5082 23.597 20.6399 18.3541 20.6399 12.7271C20.6399 10.4598 19.736 8.28278 18.1315 6.6783C16.527 5.06627 14.35 4.16234 12.0826 4.16234Z" fill="#0F67CF"></path>
+                                <path d="M12.0831 16.1696C13.9814 16.1696 15.5256 14.6254 15.5256 12.7271C15.5256 10.8289 13.9814 9.28467 12.0831 9.28467C10.1848 9.28467 8.64062 10.8289 8.64062 12.7271C8.64062 14.6254 10.1848 16.1696 12.0831 16.1696Z" fill="#0F67CF"></path>
+                            </svg>
+                        </div>
+                        <span class="text-base text-gray-300">Semarang, Indonesia</span>
+                    </div>
+                    <div class="flex items-center gap-3">
+                        <div class="shrink-0 text-[#0F67CF]">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+                            </svg>
+                        </div>
+                        <a href="mailto:hello@webimport.id" class="text-base text-gray-300 hover:text-[#0F67CF] transition-colors duration-300">hello@webimport.id</a>
+                    </div>
+                    <div class="flex items-center gap-3">
+                        <div class="shrink-0 text-[#0F67CF]">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path>
+                            </svg>
+                        </div>
+                        <a href="https://wa.me/6289661209500" target="_blank" rel="noopener noreferrer" class="text-base text-gray-300 hover:text-[#0F67CF] transition-colors duration-300">+62 896-6120-9500</a>
+                    </div>
+                </div>
+            </div>
+            <div class="w-full lg:w-3/5 grid grid-cols-1 sm:grid-cols-3 gap-10 md:gap-16 lg:gap-20">
+                <div>
+                    <h4 class="text-white font-bold text-lg mb-6">Navigation</h4>
+                    <ul class="space-y-4">
+                        <li><a class="transition-colors duration-300 text-base text-[#0F67CF] font-bold" href="<?php echo esc_url(home_url('/')); ?>">Home</a></li>
+                        <li><a class="transition-colors duration-300 text-base text-gray-400 hover:text-[#0F67CF]" href="<?php echo esc_url(home_url('/about/')); ?>">About</a></li>
+                        <li><a class="transition-colors duration-300 text-base text-gray-400 hover:text-[#0F67CF]" href="<?php echo esc_url(home_url('/services/')); ?>">Services</a></li>
+                        <li><a class="transition-colors duration-300 text-base text-gray-400 hover:text-[#0F67CF]" href="<?php echo esc_url(home_url('/industries/')); ?>">Industries</a></li>
+                        <li><a class="transition-colors duration-300 text-base text-gray-400 hover:text-[#0F67CF]" href="<?php echo esc_url(home_url('/community/')); ?>">Community</a></li>
+                        <li><a class="transition-colors duration-300 text-base text-gray-400 hover:text-[#0F67CF]" href="<?php echo esc_url(home_url('/contact/')); ?>">Contact</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-white font-bold text-lg mb-6">Social</h4>
+                    <ul class="space-y-4">
+                        <li>
+                            <a class="text-gray-400 hover:text-[#0F67CF] transition-colors duration-300 text-base flex items-center gap-2 group" href="https://webimport.web.id" target="_blank" rel="noopener noreferrer">
+                                Webimport
+                                <svg class="w-4 h-4 text-gray-500 group-hover:text-[#0F67CF] transition-colors" fill="none" stroke="currentColor" viewbox="0 0 24 24">
+                                    <path d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+                                </svg>
+                            </a>
+                        </li>
+                        <li>
+                            <a class="text-gray-400 hover:text-[#0F67CF] transition-colors duration-300 text-base flex items-center gap-2 group" href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+                                Instagram
+                                <svg class="w-4 h-4 text-gray-500 group-hover:text-[#0F67CF] transition-colors" fill="none" stroke="currentColor" viewbox="0 0 24 24">
+                                    <path d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+                                </svg>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="pt-0 sm:pt-13">
+                    <ul class="space-y-4">
+                        <li><a class="transition-colors duration-300 text-base text-gray-400 hover:text-[#0F67CF]" href="<?php echo esc_url(home_url('/terms-and-conditions/')); ?>">Terms &amp; Support</a></li>
+                        <li><a class="transition-colors duration-300 text-base text-gray-400 hover:text-[#0F67CF]" href="<?php echo esc_url(home_url('/privacy-policy/')); ?>">Privacy Policy</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<a aria-label="Chat on WhatsApp" class="fixed bottom-6 right-6 md:bottom-10 md:right-10 z-50 flex items-center justify-center w-14 h-14 md:w-16 md:h-16 bg-[#25D366] text-white rounded-full shadow-[0_4px_15px_rgba(37,211,102,0.4)] hover:scale-110 hover:bg-[#20ba56] transition-all duration-300 group" href="https://wa.me/6289661209500?text=Halo%20Webimport%2C%20saya%20tertarik%20untuk%20berkonsultasi%20mengenai%20solusi%20IT." rel="noopener noreferrer" target="_blank">
+    <span class="absolute inline-flex h-full w-full rounded-full bg-[#25D366] opacity-30 group-hover:animate-ping -z-10"></span>
+    <svg class="w-8 h-8 md:w-10 md:h-10" fill="currentColor" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M11.996 0a11.96 11.96 0 00-10.02 18.508L0 24l5.65-1.487a11.956 11.956 0 106.346-22.513zM11.996 22A9.973 9.973 0 016.31 20.25l-.42-.24-3.52.92.94-3.44-.27-.4A9.957 9.957 0 0111.996 2c5.523 0 10 4.477 10 10s-4.477 10-10 10zM17.47 14.5c-.3-.15-1.77-.87-2.04-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.34.22-.64.07-.3-.15-1.26-.46-2.4-1.48-.88-.79-1.47-1.77-1.64-2.07-.17-.3-.02-.46.13-.61.15-.15.3-.34.45-.51.15-.17.2-.3.3-.5.1-.2.05-.38-.02-.53-.08-.15-.67-1.62-.92-2.22-.24-.58-.49-.5-.67-.5h-.57c-.2 0-.53.08-.8.38-.27.3-1.04 1.02-1.04 2.49 0 1.47 1.07 2.89 1.22 3.09.15.2 2.11 3.22 5.11 4.52.71.3 1.27.48 1.7.62.71.22 1.36.19 1.87.11.56-.08 1.77-.72 2.02-1.42.25-.7.25-1.3.17-1.42-.08-.12-.28-.2-.58-.35z"></path>
+    </svg>
+</a>
 <?php wp_footer(); ?>
-</body></html>
+</body>
+</html>

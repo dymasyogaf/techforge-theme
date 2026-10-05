@@ -1,7 +1,110 @@
 /*
-Theme Name: Coding Collective
-Author: Coding Collective
-Description: Custom WordPress theme for Coding Collective.
-Version: 1.0.0
-Text Domain: codingcollective
+Theme Name: TechForge - IT Solutions & Software Agency
+Theme URI: https://webimport.web.id
+Author: Webimport
+Author URI: https://webimport.web.id
+Description: Modern, high-performance IT Solutions, Software Agency, and Tech Talent WordPress Theme for Webimport demo catalog.
+Version: 1.0.4
+Text Domain: techforge
 */
+
+/* ==========================================================================
+   GLOBAL ANIMATIONS & SHARED KEYFRAMES
+   ========================================================================== */
+
+/* Orbit Spin Animations */
+@keyframes spin-right {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+@keyframes spin-left {
+    from { transform: rotate(360deg); }
+    to { transform: rotate(0deg); }
+}
+.animate-spin-orbit {
+    animation: spin-right 30s linear infinite;
+}
+.animate-spin-upright {
+    animation: spin-left 30s linear infinite;
+}
+.hardware-accelerated {
+    will-change: transform, opacity, box-shadow;
+    transform: translateZ(0);
+}
+
+/* Marquee Animations */
+@keyframes marquee-left {
+    0% { transform: translateX(0%); }
+    100% { transform: translateX(-50%); }
+}
+@keyframes marquee-right {
+    0% { transform: translateX(-50%); }
+    100% { transform: translateX(0%); }
+}
+.animate-marquee-left {
+    animation: marquee-left 45s linear infinite;
+}
+.animate-marquee-right {
+    animation: marquee-right 45s linear infinite;
+}
+.group:hover .animate-marquee-left,
+.group:hover .animate-marquee-right {
+    animation-play-state: paused;
+}
+
+/* Scrollbar Utility */
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+.hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+/* Background Patterns */
+.bg-clients-pattern {
+    background-image: url('assets/images/bg-clients.png');
+}
+.bg-ellipse-pattern {
+    background-image: url('assets/images/ellipse.png');
+}
+
+/* ==========================================================================
+   PARTNER & CLIENT LOGOS - GRAYSCALE TO FULL COLOR HOVER EFFECT
+   ========================================================================== */
+.partner-logo,
+.grayscale,
+img.grayscale,
+.group-partner img,
+.partner-item img,
+.group\/item img {
+    filter: grayscale(100%) !important;
+    opacity: 0.55 !important;
+    transition: filter 0.35s cubic-bezier(0.4, 0, 0.2, 1), 
+                opacity 0.35s cubic-bezier(0.4, 0, 0.2, 1), 
+                transform 0.35s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+.partner-logo:hover,
+.grayscale:hover,
+img.grayscale:hover,
+.group:hover .partner-logo,
+.group:hover .grayscale,
+.group:hover img.grayscale,
+.group:hover .group-hover\:grayscale-0,
+.group-partner:hover img,
+.partner-item:hover img,
+.group\/item:hover img,
+.group\/item:hover .group-hover\/item\:grayscale-0,
+.hover\:grayscale-0:hover {
+    filter: grayscale(0%) drop-shadow(0 0 10px rgba(0, 150, 255, 0.3)) !important;
+    opacity: 1 !important;
+    transform: scale(1.06) !important;
+}
+
+.hover\:opacity-100:hover,
+.group:hover .group-hover\:opacity-100 {
+    opacity: 1 !important;
+}
+
+

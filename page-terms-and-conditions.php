@@ -2,5 +2,145 @@
 /* Template Name: Terms And Conditions */
 get_header();
 ?>
-<main><main class="bg-black min-h-screen text-white antialiased"><section class="relative pt-32 pb-20 border-b border-white/10 bg-linear-to-b from-[#111] to-black"><div class="container mx-auto px-5 md:px-0 text-center"><h1 class="text-4xl md:text-[50px] font-extrabold text-white mb-4 tracking-tight">Terms &amp; Conditions<span class="text-[#FFC700]">.</span></h1><p class="text-gray-400 text-base md:text-lg max-w-2xl mx-auto">Please read this page carefully before using our website and services.</p><p class="text-sm text-gray-400 mt-6">Effective Date: 10 April 2025</p></div></section><section class="py-20"><div class="container mx-auto px-5 md:px-0 flex flex-col lg:flex-row gap-12 lg:gap-20"><aside class="hidden lg:block w-1/4 shrink-0"><div class="sticky top-32 bg-[#1c1c1c] border border-white/5 rounded-2xl p-6"><h3 class="text-white font-bold text-lg mb-6">Table of Contents</h3><nav class="flex flex-col gap-3"><a class="text-sm transition-colors duration-300 text-[#FFC700] font-semibold" href="terms-and-conditions.html#introduction">1. Introduction</a><a class="text-sm transition-colors duration-300 text-gray-400 hover:text-white" href="terms-and-conditions.html#use-of-content">2. Use of Content</a><a class="text-sm transition-colors duration-300 text-gray-400 hover:text-white" href="terms-and-conditions.html#security-rules">3. Security Rules</a><a class="text-sm transition-colors duration-300 text-gray-400 hover:text-white" href="terms-and-conditions.html#general-rules">4. General Rules</a><a class="text-sm transition-colors duration-300 text-gray-400 hover:text-white" href="terms-and-conditions.html#indemnity">5. Indemnity</a><a class="text-sm transition-colors duration-300 text-gray-400 hover:text-white" href="terms-and-conditions.html#liability">6. Liability</a><a class="text-sm transition-colors duration-300 text-gray-400 hover:text-white" href="terms-and-conditions.html#disclaimer">7. Disclaimer of Damages</a><a class="text-sm transition-colors duration-300 text-gray-400 hover:text-white" href="terms-and-conditions.html#contact">8. Contact Us</a></nav></div></aside><div class="w-full"><div class="space-y-16 text-gray-300 leading-relaxed text-base md:text-lg text-justify"><div class="scroll-mt-32" id="introduction"><h2 class="text-2xl md:text-3xl font-bold text-white mb-6">1. Introduction</h2><p class="mb-4">The terms "We" / "Us" / "Our" / "Company" individually and collectively refer to Coding Collective and the terms "Visitor" "User" refer to the users.</p><p class="mb-4">This page states the Terms and Conditions under which you (Visitor) may visit this website www.codingcollective.com. Please read this page carefully. If you do not accept the Terms and Conditions stated here, we would request you to exit this site.</p><p>The business, any of its business divisions and/or its subsidiaries, associate companies or subsidiaries to subsidiaries or such other investment companies (in Singapore or abroad) reserve their respective rights to revise these Terms and Conditions at any time by updating this posting. You should visit this page periodically to re-appraise yourself of the Terms and Conditions, because they are binding on all users of this Website.</p></div><div class="scroll-mt-32" id="use-of-content"><h2 class="text-2xl md:text-3xl font-bold text-white mb-6">2. Use of Content</h2><p class="mb-4">All logos, brands, marks headings, labels, names, signatures, numerals, shapes or any combinations thereof, appearing in this site, except as otherwise noted, are properties either owned, or used under licence, by the business and/or its associate entities who feature on this Website.</p><p>The use of these properties or any other content on this site, except as provided in these terms and conditions or in the site content, is strictly prohibited. You may not sell or modify the content of this Website or reproduce, display, publicly perform, distribute, or otherwise use the materials in any way for any public or commercial purpose without the respective organisation's or entity's written permission.</p></div><div class="scroll-mt-32" id="security-rules"><h2 class="text-2xl md:text-3xl font-bold text-white mb-6">3. Security Rules</h2><p class="mb-4">Visitors are prohibited from violating or attempting to violate the security of the Web site, including, without limitation:</p><ul class="list-decimal pl-6 space-y-3 mb-6"><li>Accessing data not intended for such user or logging into a server or account which the user is not authorised to access.</li><li>Attempting to probe, scan or test the vulnerability of a system or network or to breach security or authentication measures without proper authorisation.</li><li>Attempting to interfere with service to any user, host or network, including, without limitation, via means of submitting a virus or "Trojan horse" to the Website, overloading, "flooding", "mail bombing" or "crashing".</li><li>Sending unsolicited electronic mail, including promotions and/or advertising of products or services.</li></ul><div class="bg-[#222222] border border-white/5 p-6 rounded-xl"><p class="text-sm text-gray-400">Violations of system or network security may result in civil or criminal liability. The business and/or its associate entities will have the right to investigate occurrences that they suspect as involving such violations and will have the right to involve, and cooperate with, law enforcement authorities in prosecuting users who are involved in such violations.</p></div></div><div class="scroll-mt-32" id="general-rules"><h2 class="text-2xl md:text-3xl font-bold text-white mb-6">4. General Rules</h2><p class="mb-4">Visitors may not use the Web Site in order to transmit, distribute, store or destroy material:</p><ul class="list-[lower-alpha] pl-6 space-y-3"><li>That could constitute or encourage conduct that would be considered a criminal offence or violate any applicable law or regulation.</li><li>In a manner that will infringe the copyright, trademark, trade secret or other intellectual property rights of others or violate the privacy or publicity of other personal rights of others.</li><li>That is libellous, defamatory, pornographic, profane, obscene, threatening, abusive or hateful.</li></ul></div><div class="scroll-mt-32" id="indemnity"><h2 class="text-2xl md:text-3xl font-bold text-white mb-6">5. Indemnity</h2><p>The User unilaterally agree to indemnify and hold harmless, without objection, the Company, its officers, directors, employees and agents from and against any claims, actions and/or demands and/or liabilities and/or losses and/or damages whatsoever arising from or resulting from their use of www.codingcollective.com or their breach of the terms.</p></div><div class="scroll-mt-32" id="liability"><h2 class="text-2xl md:text-3xl font-bold text-white mb-6">6. Liability</h2><p class="mb-4">User agrees that neither Company nor its group companies, directors, officers or employee shall be liable for any direct or/and indirect or/and incidental or/and special or/and consequential or/and exemplary damages, resulting from the use or/and the inability to use the service or/and for cost of procurement of substitute goods or/and services or resulting from any goods or/and data or/and information or/and services purchased or/and obtained or/and messages received or/and transactions entered into through or/and from the service or/and resulting from unauthorized access to or/and alteration of user's transmissions or/and data or/and arising from any other matter relating to the service, including but not limited to, damages for loss of profits or/and use or/and data or other intangible, even if Company has been advised of the possibility of such damages.</p><p class="mb-4">User further agrees that Company shall not be liable for any damages arising from interruption, suspension or termination of service, including but not limited to direct or/and indirect or/and incidental or/and special consequential or/and exemplary damages, whether such interruption or/and suspension or/and termination was justified or not, negligent or intentional, inadvertent or advertent.</p><p>User agrees that Company shall not be responsible or liable to user, or anyone, for the statements or conduct of any third party of the service. In sum, in no event shall Company's total liability to the User for all damages or/and losses or/and causes of action exceed the amount paid by the User to Company, if any, that is related to the cause of action.</p></div><div class="scroll-mt-32" id="disclaimer"><h2 class="text-2xl md:text-3xl font-bold text-white mb-6">7. Disclaimer of Consequential Damages</h2><p>In no event shall Company or any parties, organizations or entities associated with the corporate brand name us or otherwise, mentioned at this Website be liable for any damages whatsoever (including, without limitations, incidental and consequential damages, lost profits, or damage to computer hardware or loss of data information or business interruption) resulting from the use or inability to use the Website and the Website material, whether based on warranty, contract, tort, or any other legal theory, and whether or not, such organization or entities were advised of the possibility of such damages.</p></div><div class="scroll-mt-32 pb-10" id="contact"><h2 class="text-2xl md:text-3xl font-bold text-white mb-6">8. Contact Us</h2><p class="mb-6">If you have any questions about these Terms, please contact us using the information below:</p><div class="flex flex-col sm:flex-row gap-6"><div class="bg-[#1c1c1c] border border-white/5 p-6 rounded-xl flex-1"><h4 class="text-white font-bold mb-2">Email Address</h4><a class="text-[#FFC700] hover:underline" href="https://codingcollective.com/cdn-cgi/l/email-protection#2c4e595f4542495f5f6c4f434845424b4f434040494f58455a49024f43410c"><span class="__cf_email__" data-cfemail="395b4c4a50575c4a4a795a565d50575e5a5655555c5a4d504f5c175a5654">[email protected]</span></a></div><div class="bg-[#1c1c1c] border border-white/5 p-6 rounded-xl flex-1"><h4 class="text-white font-bold mb-2">Headquarters</h4><p class="text-gray-400 text-sm">Jl. Soga No.46 Tahunan, Kec.Umbulharjo<br/>Kota Yogyakarta, DIY 55167, Indonesia</p></div></div></div></div></div></div></section></main></main>
+<main class="bg-black min-h-screen text-white antialiased">
+    <section class="relative pt-32 pb-20 border-b border-white/10 bg-linear-to-b from-[#111] to-black">
+        <div class="container mx-auto px-5 md:px-0 text-center">
+            <h1 class="text-4xl md:text-[50px] font-extrabold text-white mb-4 tracking-tight">Terms &amp; Support<span class="text-[#0F67CF]">.</span></h1>
+            <p class="text-gray-400 text-base md:text-lg max-w-2xl mx-auto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p class="text-sm text-gray-400 mt-6">Effective Date: 1 Januari 2026</p>
+        </div>
+    </section>
+
+    <section class="py-20">
+        <div class="container mx-auto px-5 md:px-0 flex flex-col lg:flex-row gap-12 lg:gap-20">
+            <!-- Sidebar Navigation -->
+            <aside class="hidden lg:block w-1/4 shrink-0">
+                <div class="sticky top-32 bg-[#1c1c1c] border border-white/5 rounded-2xl p-6">
+                    <h3 class="text-white font-bold text-lg mb-6">Table of Contents</h3>
+                    <nav class="flex flex-col gap-3">
+                        <a class="text-sm transition-colors duration-300 text-[#0F67CF] font-semibold hover:text-[#2B85EC]" href="#lorem-ipsum">1. Lorem Ipsum Dolor</a>
+                        <a class="text-sm transition-colors duration-300 text-gray-400 hover:text-white" href="#consectetur">2. Consectetur Adipiscing</a>
+                        <a class="text-sm transition-colors duration-300 text-gray-400 hover:text-white" href="#eiusmod-tempor">3. Eiusmod Tempor</a>
+                        <a class="text-sm transition-colors duration-300 text-gray-400 hover:text-white" href="#labore-dolore">4. Labore et Dolore</a>
+                        <a class="text-sm transition-colors duration-300 text-gray-400 hover:text-white" href="#nostrud-exercitation">5. Nostrud Exercitation</a>
+                        <a class="text-sm transition-colors duration-300 text-gray-400 hover:text-white" href="#ullamco-laboris">6. Ullamco Laboris</a>
+                        <a class="text-sm transition-colors duration-300 text-gray-400 hover:text-white" href="#duis-aute">7. Duis Aute Irure</a>
+                        <a class="text-sm transition-colors duration-300 text-gray-400 hover:text-white" href="#contact-support">8. Contact &amp; Support</a>
+                    </nav>
+                </div>
+            </aside>
+
+            <!-- Main Content Area -->
+            <div class="w-full">
+                <div class="space-y-16 text-gray-300 leading-relaxed text-base md:text-lg text-justify">
+                    <!-- Section 1 -->
+                    <div class="scroll-mt-32" id="lorem-ipsum">
+                        <h2 class="text-2xl md:text-3xl font-bold text-white mb-6">1. Lorem Ipsum Dolor</h2>
+                        <p class="mb-4">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        </p>
+                        <p class="mb-4">
+                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                        </p>
+                        <p>
+                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                        </p>
+                    </div>
+
+                    <!-- Section 2 -->
+                    <div class="scroll-mt-32" id="consectetur">
+                        <h2 class="text-2xl md:text-3xl font-bold text-white mb-6">2. Consectetur Adipiscing</h2>
+                        <p class="mb-4">
+                            Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+                        </p>
+                        <p>
+                            Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
+                        </p>
+                    </div>
+
+                    <!-- Section 3 -->
+                    <div class="scroll-mt-32" id="eiusmod-tempor">
+                        <h2 class="text-2xl md:text-3xl font-bold text-white mb-6">3. Eiusmod Tempor</h2>
+                        <p class="mb-4">
+                            Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur:
+                        </p>
+                        <ul class="list-decimal pl-6 space-y-3 mb-6">
+                            <li>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.</li>
+                            <li>Quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi.</li>
+                            <li>Id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</li>
+                            <li>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.</li>
+                        </ul>
+                        <div class="bg-[#1c1c1c] border border-white/5 p-6 rounded-xl">
+                            <p class="text-sm text-gray-400">
+                                Omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Section 4 -->
+                    <div class="scroll-mt-32" id="labore-dolore">
+                        <h2 class="text-2xl md:text-3xl font-bold text-white mb-6">4. Labore et Dolore</h2>
+                        <p class="mb-4">
+                            Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat:
+                        </p>
+                        <ul class="list-[lower-alpha] pl-6 space-y-3">
+                            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</li>
+                            <li>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</li>
+                            <li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</li>
+                        </ul>
+                    </div>
+
+                    <!-- Section 5 -->
+                    <div class="scroll-mt-32" id="nostrud-exercitation">
+                        <h2 class="text-2xl md:text-3xl font-bold text-white mb-6">5. Nostrud Exercitation</h2>
+                        <p>
+                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                        </p>
+                    </div>
+
+                    <!-- Section 6 -->
+                    <div class="scroll-mt-32" id="ullamco-laboris">
+                        <h2 class="text-2xl md:text-3xl font-bold text-white mb-6">6. Ullamco Laboris</h2>
+                        <p class="mb-4">
+                            Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+                        </p>
+                        <p>
+                            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.
+                        </p>
+                    </div>
+
+                    <!-- Section 7 -->
+                    <div class="scroll-mt-32" id="duis-aute">
+                        <h2 class="text-2xl md:text-3xl font-bold text-white mb-6">7. Duis Aute Irure</h2>
+                        <p>
+                            At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+                        </p>
+                    </div>
+
+                    <!-- Section 8 -->
+                    <div class="scroll-mt-32 pb-10" id="contact-support">
+                        <h2 class="text-2xl md:text-3xl font-bold text-white mb-6">8. Contact &amp; Support</h2>
+                        <p class="mb-6">
+                            Jika Anda memiliki pertanyaan mengenai Terms &amp; Support atau memerlukan bantuan lebih lanjut, silakan hubungi kami:
+                        </p>
+                        <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+                            <div class="bg-[#1c1c1c] border border-white/5 p-6 rounded-xl">
+                                <h4 class="text-white font-bold mb-2">Email</h4>
+                                <a class="text-[#0F67CF] hover:underline" href="mailto:hello@webimport.id">hello@webimport.id</a>
+                            </div>
+                            <div class="bg-[#1c1c1c] border border-white/5 p-6 rounded-xl">
+                                <h4 class="text-white font-bold mb-2">Phone / WhatsApp</h4>
+                                <a class="text-[#0F67CF] hover:underline" href="https://wa.me/6289661209500" target="_blank" rel="noopener noreferrer">+62 896-6120-9500</a>
+                            </div>
+                            <div class="bg-[#1c1c1c] border border-white/5 p-6 rounded-xl">
+                                <h4 class="text-white font-bold mb-2">Headquarters</h4>
+                                <p class="text-gray-400 text-sm">Semarang, Indonesia</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
 <?php get_footer(); ?>
